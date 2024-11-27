@@ -64,5 +64,4 @@ Int is 98
 
 # Authors
 Creators:
-- Samir Ibrahimov [Samir](https://github.com/samiribrh)
-- Kamal Abdullayev [Kamal](https://github.com/KamalAbdullayev0)
+- ismayil ismayilzade
